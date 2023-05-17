@@ -13,17 +13,19 @@ ol li {
     border: 2px solid black;
 }
 footer {
-    padding-top: 3px;
+    padding-top: 10px;
     padding-bottom: 3px;
     padding-left: 30px;
-    background: #444;
-    color: white;
+    background: #cecece;
+    color: black;
 }
 a.foo:hover {
     text-decoration-color: black;
-    color: black;
+    color: darkred;
 }
 a.foo {
   text-decoration-color: white;
-  color: white;
+  color: black;
 }
+
+
